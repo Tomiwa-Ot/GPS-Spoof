@@ -8,4 +8,4 @@ This android application enables your device to spoof a GPS location. To use the
 - Select GPS Spoof
 
 ### Demo
-[![Tutorial Video](https://img.youtube.com/vi/tPuekUuY1U8/0.jpg)](https://youtu.be/tPuekUuY1U8)
+[![Tutorial Video](https://img.youtube.com/vi/0zS2w1_4vzY/0.jpg)](https://youtu.be/0zS2w1_4vzY)
